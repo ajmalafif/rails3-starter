@@ -47,11 +47,3 @@ test:
   username: ajmalafif
   password:
   host: localhost
-
-production:
-  adapter: postgresql
-  encoding: unicode
-  database: bazaar_production
-  pool: 5
-  username: bazaar
-  password:
