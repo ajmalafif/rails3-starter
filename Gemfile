@@ -22,6 +22,8 @@ end
 
 group :development do
   gem 'sextant'
+  gem "rails-erd"
+  gem "better_errors"
 end
 
 gem 'jquery-rails'
